@@ -18,8 +18,8 @@ This Go application serves as a bridge for transferring data between two Redis q
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone [repository-url]
-   cd [repository-directory]
+   git clone https://github.com/CK200/golang-redis-bridge.git
+   cd golang-redis-bridge
    ```
 
 2. **Build the application:**
